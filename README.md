@@ -1,2 +1,3 @@
 # productstar
-Second string
+The second string
+The third string
