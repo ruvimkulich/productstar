@@ -1,3 +1,6 @@
 String text
+<<<<<<< HEAD
 
+=======
+>>>>>>> 82b50dda86abdeddc806410cf44158ac96e8290e
 Add new string
